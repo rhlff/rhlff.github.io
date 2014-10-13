@@ -3,6 +3,10 @@ html, body {
     font-size: 110%;
 }
 
+p {
+    line-height: 135%;
+}
+
 h1 {
     font-weight: 700;
     font-size: 120%;
